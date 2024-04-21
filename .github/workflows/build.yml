@@ -7,6 +7,4 @@ jobs:
     with:
       kmonad_os: '[MAC]'
       alphas: '["QWERTY"]'
-      extras: '["QWERTY"]'
-      tap: '["QWERTY"]'
       mode: '["build"]'
