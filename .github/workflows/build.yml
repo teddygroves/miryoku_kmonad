@@ -5,6 +5,6 @@ jobs:
   test:
     uses: ./.github/workflows/main.yml
     with:
-      kmonad_os: '[MAC]'
+      kmonad_os: '["MAC"]'
       alphas: '["QWERTY"]'
       mode: '["build"]'
